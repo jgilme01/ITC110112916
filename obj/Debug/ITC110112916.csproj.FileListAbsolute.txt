@@ -1,0 +1,14 @@
+c:\users\jsg\documents\visual studio 2015\Projects\ITC110112916\ITC110112916\bin\Debug\ITC110112916.exe.config
+c:\users\jsg\documents\visual studio 2015\Projects\ITC110112916\ITC110112916\bin\Debug\ITC110112916.exe
+c:\users\jsg\documents\visual studio 2015\Projects\ITC110112916\ITC110112916\bin\Debug\ITC110112916.pdb
+c:\users\jsg\documents\visual studio 2015\Projects\ITC110112916\ITC110112916\obj\Debug\ITC110112916.csprojResolveAssemblyReference.cache
+c:\users\jsg\documents\visual studio 2015\Projects\ITC110112916\ITC110112916\obj\Debug\MainWindow.g.cs
+c:\users\jsg\documents\visual studio 2015\Projects\ITC110112916\ITC110112916\obj\Debug\App.g.cs
+c:\users\jsg\documents\visual studio 2015\Projects\ITC110112916\ITC110112916\obj\Debug\ITC110112916_MarkupCompile.cache
+c:\users\jsg\documents\visual studio 2015\Projects\ITC110112916\ITC110112916\obj\Debug\ITC110112916_MarkupCompile.lref
+c:\users\jsg\documents\visual studio 2015\Projects\ITC110112916\ITC110112916\obj\Debug\MainWindow.baml
+c:\users\jsg\documents\visual studio 2015\Projects\ITC110112916\ITC110112916\obj\Debug\ITC110112916.g.resources
+c:\users\jsg\documents\visual studio 2015\Projects\ITC110112916\ITC110112916\obj\Debug\ITC110112916.Properties.Resources.resources
+c:\users\jsg\documents\visual studio 2015\Projects\ITC110112916\ITC110112916\obj\Debug\ITC110112916.csproj.GenerateResource.Cache
+c:\users\jsg\documents\visual studio 2015\Projects\ITC110112916\ITC110112916\obj\Debug\ITC110112916.exe
+c:\users\jsg\documents\visual studio 2015\Projects\ITC110112916\ITC110112916\obj\Debug\ITC110112916.pdb
